@@ -2,7 +2,7 @@
 ## controller
 - responsible to manage the flow of the application
 ## entity
--representation of the data
+- representation of the data
 ## repository
 - has all the function in connection with the repository. The repository uses JPA as extension.
 ## service
