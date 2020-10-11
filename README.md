@@ -1,5 +1,5 @@
 # Spring-Boot-Coding-Challenge-Jheysa-Marie-Canete
-## This is a spring boot application where users can get the list of popular movies fetched from themoviedb API.
+This is a spring boot application where users can get the list of popular movies fetched from themoviedb API.
 
 ### controller
 - responsible to manage the flow of the application
