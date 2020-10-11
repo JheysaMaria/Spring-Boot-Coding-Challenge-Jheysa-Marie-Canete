@@ -1,9 +1,9 @@
 # Spring-Boot-Coding-Challenge-Jheysa-Marie-Canete
-##controller
+## controller
 - responsible to manage the flow of the application
-##entity
+## entity
 -representation of the data
-##repository
+## repository
 - has all the function in connection with the repository. The repository uses JPA as extension.
-##service
+## service
 - service provider of the application
