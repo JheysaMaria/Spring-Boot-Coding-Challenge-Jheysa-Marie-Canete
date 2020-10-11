@@ -6,6 +6,6 @@ This is a spring boot application where users can get the list of popular movies
 ### entity
 - representation of the data
 ### repository
-- has all the function in connection with the repository. The repository uses JPA as extension.
+- has all the function in connection with the repository. The repository uses JPA.
 ### service
 - service provider of the application
